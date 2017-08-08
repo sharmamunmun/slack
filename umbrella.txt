@@ -1,1 +1,1 @@
-{"username": "Orange","icon_emoji": ":munmunemoji:","channel": "#bring-an-umbrella","text": "Finally reading from a file!!"}
+{"username": "Orange","icon_emoji": ":munmunemoji:","channel": "#bring-an-umbrella","attachments" : [{"color" : "danger", "fields" :[{"title":"Event!","value":"Heavy rains!!","short":false}]}]}
